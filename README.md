@@ -1,6 +1,6 @@
-# Audio Transcription CLI Prototype
+# Audio Transcription Pipeline
 
-A small Python command-line prototype that accepts an audio file, transcribes speech with `faster-whisper`, and prints timestamped segments and the full transcript in the terminal. It does not need a web server or user interface.
+A small Python pipeline that accepts an audio file, transcribes speech with `faster-whisper`, and prints timestamped segments and the full transcript in the terminal. It does not need a web server or user interface.
 
 ## Requirements
 - Python 3.13 recommended

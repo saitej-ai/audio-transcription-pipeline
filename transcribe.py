@@ -1,7 +1,6 @@
 """
-Audio Transcription CLI Prototype.
+Audio Transcription Pipeline.
 Run: python transcribe.py
-Or:  python transcribe.py "C:\\path\\to\\audio.mp3"
 """
 import argparse
 import sys
